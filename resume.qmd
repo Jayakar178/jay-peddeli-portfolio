@@ -1,89 +1,91 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jayakar Peddeli – Curriculum Vitae
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Jayakar Peddeli
+**Data Science Student · Programmer · Analyst**
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ped24005@byui.edu">ped24005@byui.edu</a> |
+<a href="https://github.com/Jayakar178">GitHub</a>
 </div>
 
+---
 
-## Currently
+## Profile
 
-Standing on the shoulders of giants
+Motivated Data Science student at Brigham Young University–Idaho with hands-on experience in Python, data analysis, visualization, and introductory machine learning. Interested in applying data-driven methods to real-world problems and building clear, ethical, and impactful analytical solutions.
 
-### Specialized in
+---
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Areas of Specialization
 
+- Data analysis with Python  
+- Data cleaning and transformation  
+- Exploratory data analysis  
+- Data visualization  
+- Introductory machine learning  
+- Statistical reasoning  
 
-### Research interests
+---
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Technical Skills
 
+- **Programming:** Python  
+- **Libraries:** pandas, NumPy, scikit-learn, lets-plot  
+- **Data Skills:** data wrangling, feature engineering, validation  
+- **Tools:** Git, GitHub, VS Code, Quarto  
+- **Databases:** SQL (basic querying and aggregation)  
+
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**2023 – Present**  
+**Brigham Young University–Idaho**  
+Bachelor’s Degree (in progress)  
+Field of Study: Data Science / Computer Science–related coursework  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Relevant Coursework:
+- Data Science (Python, data analysis, visualization)
+- Programming and algorithmic thinking
+- Introductory statistics and modeling
 
-- Sizar
+---
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Projects
 
-- Fellow
+### Data Analysis Projects
+- Performed exploratory data analysis on real-world datasets using Python and pandas  
+- Cleaned and validated messy datasets by handling missing values and inconsistencies  
+- Created visualizations to communicate trends, distributions, and insights  
 
+### Machine Learning Projects
+- Built and evaluated classification models including logistic regression and decision trees  
+- Interpreted model performance using accuracy, precision, and recall  
+- Applied feature encoding and train-test splits to avoid data leakage  
 
+*(Note: Course homework projects are intentionally excluded from this portfolio.)*
 
-## Awards
+---
 
-`2012`
-President, *Royal Society*, London, UK
+## Experience
 
-Associate, *French Academy of Science*, Paris, France
+### Academic and Technical Experience
+- Applied version control using Git and GitHub to manage and publish projects  
+- Used Quarto to create reproducible, professional data science reports and websites  
+- Collaborated on structured assignments emphasizing clarity, documentation, and results  
 
+---
 
+## Interests
 
-## Publications
+- Data science and analytics  
+- Programming and software development  
+- Technology-driven problem solving  
+- Continuous learning and skill development  
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+---
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- Last updated: 2025 -->
